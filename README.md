@@ -1,32 +1,44 @@
-## Olá ! Sou Luã Melo / Hello ! I am Luã Melo
+<!-- Parte superior da página -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
 
-- 🔭 No Momento Estou a procura de estágio / I am currently looking for an opportunity to intern in the developer area.
-- 🌱 Estudando React Native / at the time i am studing "React Native".
-- 📫 Contate-me no email: luamelosilva28@gmail.com / Contact-me on my email: luamelosilva28@gmail.com
-- 😄 Pronouns: ele/dele.
+---
+<div align="center">
+  
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Luã Melo
+ 👨🏻‍💻 Sou um UI/UX Designer em formação, apaixonado por experiências digitais, estética e tecnologia.<br>
+ ⚡ Formado em Análise e desenvolvimento de sistemas na Unibra<br>
+ 🧩 Jovem Aprendiz no setor de logística do Grupo Morada da Paz<br>
+</div>
 
 <div align="center">
   <a href="https://github.com/luamelosilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luamelosilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luamelosilva&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luamelosilva&theme=neon&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luamelosilva&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Luã-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luã-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luã-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luã-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Luã-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+ <!-- Distintivos de Linguagens e Habilidades -->
+<div style="display: inline_block" align="center"><br>
+  <img  alt="Luã-Figma" src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma";
+</div>
+ <br>
+
+<!-- Contador de Visitantes -->
+<div align="center">
+  <br><p align="center"><b>Quantidade de visitantes</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{luamelosilva}/count.svg" /></p> 
+  <br>
 </div>
 
 ##
 
-<div>
-  <a href="https://www.instagram.com/melo.l04/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discordapp.com/users/494531761251024939" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<div align="center"> 
+  <a href="https://instagram.com/melo.l04/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:luamelosilva28@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luã-melo-636a96231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+  <a href="https://www.linkedin.com/in/luamelosilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 ![Snake animation](https://github.com/luamelosilva/luamelosilva/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+<img width='100%' src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer&reversal=false"/>
