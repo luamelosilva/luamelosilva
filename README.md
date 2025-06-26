@@ -37,8 +37,10 @@
   <a href="https://www.linkedin.com/in/luamelosilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-![Snake animation](https://github.com/luamelosilva/luamelosilva/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+<picture align="center" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luamelosilva/luamelosilva/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luamelosilva/luamelosilva/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luamelosilva/luamelosilva/output/github-contribution-grid-snake.svg">
+</picture>
 
 <img width='100%' src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer&reversal=false"/>
